@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://tourneyradar-api.vercel.app
 common:
+  - type: DomainSecurity
+    url: security/tourneyradar-domain-security.yml
   - type: Website
     url: https://tourneyradar-api.vercel.app
   - type: PublicAPIsListing
