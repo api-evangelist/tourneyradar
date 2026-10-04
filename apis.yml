@@ -33,13 +33,12 @@ x-category: "Sports & Fitness"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Sports And Fitness
   - Public APIs
+  - Chess
 apis:
   - name: TourneyRadar
     description: "Upcoming chess tournaments from 140+ national federations worldwide"
     humanURL: https://tourneyradar-api.vercel.app
-    baseURL: https://tourneyradar-api.vercel.app
     tags:
       - Sports And Fitness
     properties:
@@ -55,3 +54,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Sports And Fitness
